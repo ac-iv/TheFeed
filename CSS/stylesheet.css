@@ -109,21 +109,20 @@ main {
     color: black;
     font-weight: bold;
     font-family: 'Quicksand', sans-serif;
-    font-size: small;
+    font-size: 80%;;
+    text-decoration:none;
 }
 .friendslist {
     background-color: white;
     border: 3.5px rgb(106, 177, 215) solid;
     position: fixed;
     margin-top: 400px;
-   
     margin-left: 65px;
     max-height: fit-content;
     padding-left: 15px;
     padding-right: 15px;
     width: 320px;
     height: 40%;
-
     overflow: scroll;
 }
 .friendslist h3 {
