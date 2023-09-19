@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Concert+One&family=Quicksand:wght@300&family=Titan+One&display=swap');
+
+body{
+    background-image: url(../IMG/JPG/wrinkles\ paper.jpg);
+    background-size: 100%;
+    margin-top: 40px;
+}
+
+header{
+    margin-top: 15px;
+    width: 350px;
+    position: fixed;
+    margin-left: 65px;
+}
+nav{
+
+    background-color: rgb(158, 180, 239);
+    width: 350px;
+    position: fixed;
+    margin-top: 270px;
+    margin-left: 65px;
+    font-family: 'Calistoga', cursive;
+    border: 3px white solid;
+}
+section{
+    border: 3.5px rgb(106, 177, 215) solid;
+    padding-top: 25px;
+    background-color: white;
+}
+footer{
+    width: 350px;
+    color: rgb(97, 100, 104);
+}
+h4{
+    font-size: large;
+    color: white;
+    font-size: small;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+ul{
+    color: white;
+   
+}
+h3 {
+    font-family: 'Calistoga', cursive;
+    color: rgb(164, 10, 10);
+}
+.blacktext {
+    color: rgb(0, 0, 0);
+}
+
+
+.centerimage {
+    margin-left: 500px;
+    margin-right: 150px;
+    
+
+}
+.sidebar {
+    margin-top: 400px;
+}
+.center {
+    text-align: center;
+}
+.bigh3 {
+    font-size: x-large;
+    font-weight: bolder;
+}
+footer{
+    position: fixed;
+    bottom: 25px;
+    margin-left: 75px;
+    
+}
+.indexboxes {
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    border: 3.5px rgb(106, 177, 215) solid;
+}
+
+main img {
+    border: black 2px solid;
+}
+
+main video {
+    border: black 2px solid;
+}
+nav h2 {
+    color: rgb(164, 10, 10);
+}
+nav h4 {
+    color: black;
+    font-weight: 1000;
+}
+main {
+    margin-right: -60px;
+}
+.friendslist li {
+    color: black;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+}
+.friendslist {
+    background-color: white;
+    border: 3.5px rgb(106, 177, 215) solid;
+    position: fixed;
+    margin-top: 400px;
+   
+    margin-left: 65px;
+    max-height: fit-content;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 320px;
+    height: 40%;
+
+    overflow: scroll;
+}
+.friendslist h3 {
+    text-align: center;
+    text-decoration: underline;
+}
