@@ -136,3 +136,8 @@ main {
     text-decoration: underline;
     color: black;
 }
+
+header img:hover {
+    opacity: 150%;
+    filter: invert();
+}
