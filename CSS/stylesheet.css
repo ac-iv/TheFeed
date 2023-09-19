@@ -20,7 +20,7 @@ nav{
     top: 39%;
     left: 7%;
     font-family: 'Calistoga', cursive;
-    border: 3px white solid;
+    border: 3.5px white solid;
 }
 .friendslist {
     background-color: white;
@@ -32,9 +32,8 @@ nav{
     padding-left: 15px;
     padding-right: 15px;
     width: 320px;
-    height: 40%;
+    height: 35%;
     overflow: scroll;
-    overflow: auto;
 }
 section{
     border: 3.5px rgb(106, 177, 215) solid;
@@ -42,12 +41,14 @@ section{
     background-color: white;
 }
 footer{
-    
+
+    width: 350px;
     color: rgb(97, 100, 104);
     position: fixed;
     bottom: 1%;
-    left: 19%;
-    padding-top: 10px;
+    left: 7%;
+    bottom: 1%;
+
 }
 h4{
     font-size: large;
@@ -131,3 +132,7 @@ main {
     text-decoration: underline;
 }
 
+.friendslist a {
+    text-decoration: underline;
+    color: black;
+}
