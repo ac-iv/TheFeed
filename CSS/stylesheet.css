@@ -30,7 +30,7 @@ nav p {
     font-weight: bolder;
 
 }
-nav li {
+nav .center li {
     text-align: left;
     padding-left: 60px ;
     font-family: 'Quicksand', sans-serif;
