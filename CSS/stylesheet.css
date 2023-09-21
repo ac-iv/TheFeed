@@ -138,6 +138,5 @@ main {
 }
 
 header img:hover {
-    opacity: 150%;
-    filter: invert();
+opacity: 50%;
 }
