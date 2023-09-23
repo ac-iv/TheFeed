@@ -17,7 +17,8 @@ header .thefeedlogo{
 nav{
 
     background-color: rgb(158, 180, 239);
-    width: 350px;
+    width: 30%;
+    max-width: 350px;
     position: fixed;
     top: 39%;
     left: 7%;
@@ -49,12 +50,12 @@ nav .center li {
     position: fixed;
     top: 58%;
     left: 7%;
-    padding-left: 15px;
-    padding-right: 15px;
     margin-bottom: 10%;
-    width: 320px;
-    height: 320px;
+    width: 30%;
+    max-width: 350px;
+    height: 310px;
     overflow: scroll;
+    ;
 }
 section{
     border: 3.5px rgb(106, 177, 215) solid;
@@ -98,13 +99,16 @@ h3 {
 .blacktext {
     color: rgb(0, 0, 0);
 }
+
+
 .centerimage {
     margin-left: 500px;
     margin-right: 150px;
-    max-width: 600px;
+    max-width: 700px;
 }
 main img:hover{
     transform: scale(0.9);
+
 }
 main video:hover{
     transform: scale(0.9);
@@ -119,7 +123,10 @@ main video:hover{
     font-size: x-large;
     font-weight: bolder;
 }
-
+.indexboxes p{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 100%;
+}
 .indexboxes {
     background-color: white;
     padding-top: 1px;
