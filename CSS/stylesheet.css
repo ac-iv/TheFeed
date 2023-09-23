@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Concert+One&family=Quicksand:wght@300&family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Concert+One&family=Quicksand:wght@300&family=Reenie+Beanie&family=Titan+One&display=swap');
 
 body{
     background-image: url(../IMG/JPG/wrinkles\ paper.jpg);
     background-size: 100%;
+    background-repeat: repeat-y;
+    sc;
     margin-top: 40px;
 }
 
@@ -34,6 +36,8 @@ nav .center li {
     text-align: left;
     padding-left: 60px ;
     font-family: 'Quicksand', sans-serif;
+
+    
     font-weight: 700;
     text-underline-offset: 10000%;
 }
@@ -78,7 +82,8 @@ h4{
 
 p {
     color: rgb(0, 0, 0);
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 160%;
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -100,6 +105,9 @@ h3 {
     margin-right: 150px;
     
 
+}
+main img:hover{
+    transform: scale(0.9);
 }
 .sidebar {
     margin-top: 400px;
@@ -143,7 +151,9 @@ main {
     font-size: 80%;;
     text-decoration:none;
 }
-
+.text p {
+    font-family: 'Quicksand', sans-serif;
+}
 .friendslist h3 {
     text-align: center;
     text-decoration: underline;
