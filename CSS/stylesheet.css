@@ -65,6 +65,8 @@ section{
     border: 3.5px rgb(106, 177, 215) solid;
     padding-top: 25px;
     background-color: white;
+    margin-right: -20%;
+    min-width: 200px;
 }
 footer{
 
@@ -126,6 +128,7 @@ main video:hover{
 .bigh3 {
     font-size: x-large;
     font-weight: bolder;
+    margin-right: -20%;
 }
 .indexboxes p{
     font-family: 'Quicksand', sans-serif;
@@ -153,8 +156,7 @@ nav h4 {
     font-weight: 1000;
 }
 main {
-    margin-right: -10%;
-    margin-left: -3%;
+
 }
 .friendslist li {
     color: black;
