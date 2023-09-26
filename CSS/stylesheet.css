@@ -141,13 +141,6 @@ main video:hover{
     border: 3.5px rgb(106, 177, 215) solid;
 }
 
-main img {
-    border: black 2px solid;
-}
-
-main video {
-    border: black 2px solid;
-}
 nav h2 {
     color: rgb(164, 10, 10);
 }
